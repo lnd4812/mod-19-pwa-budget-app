@@ -56,7 +56,7 @@ the.
 ## Credits
 
 * The majority of the program coding is based on material in both the module 18 and module 19 lessons.
-* Documentation for MongoDB [website](https://www.mongodb.com) and Mongoose [npm page](https://www.npmjs.com/package/mongoose)
+* Documentation for MongoDB and MongoDB Atlas [website](https://www.mongodb.com) and Mongoose [npm page](https://www.npmjs.com/package/mongoose)
 * Stack Overflow [website](https://stackoverflow.com) provided a number of solutions to some of the issues I encountered that were not addressed in the lesson material and/or clarity for other items.
 
 ## Questions?
@@ -69,7 +69,7 @@ My GitHub Username is [github.com/lnd4812](https://github.com/lnd4812).
 
 ## GitHub Repository
 
-My GitHub repository link for this project is via this [Link](https://github.com/lnd4812/pwa-budget-app)
+My GitHub repository link for this project is via this [Link](https://github.com/lnd4812/mod-19-pwa-budget-app)
 
 ## Application Heroku Link
 
@@ -77,4 +77,4 @@ Link for Heroku Deployment [heroku link url](https://polite-whistler-56053.herok
 
 ## Contact information
 
-To contact me directly, please feel free to drop me an e-mail at: <a hef="mailto:laureldavid64@gmail.com">laureldavid64@gmail.com</a>
+To contact me directly, please email me at: <a hef="mailto:laureldavid64@gmail.com">laureldavid64@gmail.com</a>
