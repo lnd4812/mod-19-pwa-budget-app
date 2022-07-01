@@ -2,11 +2,10 @@ const APP_PREFIX = "pwa-budget-app-";
 const VERSION = "version_01";
 const CACHE_NAME = APP_PREFIX + VERSION
 const FILES_TO_CACHE = [
-    "./public/index.html",
-    "./public/css/styles.css",
-    "./public/js/idb.js",
-    "./public/js/index.js"
-];
+    "./index.html",
+    "./css/styles.css",
+    "./js/idb.js",
+    "./js/index.js"];
 
 self.addEventListener('fetch', function (e) {
     console.log('fetch request : ' + e.request.url)

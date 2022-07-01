@@ -46,6 +46,6 @@
     ],
     "theme_color": "#6A0DAD",
     "background_color": "#6666ff",
-    "start_url": "/?source=pwa",
-    "display": "stand-alone"  
+    "start_url": "/ ",
+    "display": "standalone"  
 }
