@@ -1,17 +1,51 @@
 
 {
-    "name": "pwa-budget-app",
-    "short_name": "budget-app",
+    "name": "Budget App",
+    "short_name": "Budget",
     "icons": [
-        {
-            "src": "path.resolve('icons/icon-512x512.png')",
-            "sizes": [72, 96, 128, 144, 152, 192, 384, 512],
-            "destination": "path(icons)"   
-        }
-      ],
-    "theme_color": "",
-    "background_color": "",
-    "start_url": "",
-    "display": ""  
-
+      {
+        "src": "/icons/icon-72.png",
+        "type": "icon/png",
+        "sizes": "72x72"
+      },
+      {
+        "src": "/icons/icon-96.png",
+        "type": "icon/png",
+        "sizes": "96x96"
+      },
+      {
+        "src": "/icons/icon-128.png",
+        "type": "icon/png",
+        "sizes": "128x128"
+      },
+      {
+        "src": "/icons/icon-144.png",
+        "type": "icon/png",
+        "sizes": "144x144"
+      },
+      {
+        "src": "/icons/icon-152.png",
+        "type": "icon/png",
+        "sizes": "152x152"
+      },
+      {
+        "src": "/icons/icon-192.png",
+        "type": "icon/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/icons/icon-384.png",
+        "type": "icon/png",
+        "sizes": "384x384"
+      },
+      {
+        "src": "/icons/icon-512.png",
+        "type": "icon/png",
+        "sizes": "512x512"
+      }      
+    ],
+    "theme_color": "#6A0DAD",
+    "background_color": "#6666ff",
+    "start_url": "/?source=pwa",
+    "display": "stand-alone"  
 }
