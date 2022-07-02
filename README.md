@@ -79,6 +79,8 @@ My GitHub repository link for this project is via this [Link](https://github.com
 
 Link for Heroku Deployment [heroku link url](https://polite-whistler-56053.herokuapp.com/)
 
+App may be used as is on a mobile device by right-clicking next to url address on deployed page and clicking on "send to your devices".
+
 ## Contact information
 
 To contact me directly, please email me at: <a hef="mailto:laureldavid64@gmail.com">laureldavid64@gmail.com</a>
