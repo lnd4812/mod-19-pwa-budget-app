@@ -6,7 +6,7 @@ PWA-BUDGET-TRACKER
 
 ## Description
 
-This purpose of th
+This purpose of this application is to create a budget tracker that will allow a user to input credits and debits with out without a data or internet connection.
 
 Output is based on the acceptance criteria outlined in the Module 18 Assignment Overview [Module-19-assignment](https://courses.bootcampspot.com/courses/1181/assignments/23382?module_item_id=466409).
 
@@ -25,11 +25,11 @@ A sample of the expected layout is included in the Challenge outline.
 
 ## Installation
 
-* Using the.
+* This application may be installed by deploying it at the Heroku web-site link indicated in this README.
   
 ## Usage
 
-The site enables.
+The site enables a user to maintain a budget via an application that can track transactions whether or not the user is connected to the internet. When connected, transactions update automatically.  When offline, transactions are stored in a cache which uses Service Workers to automatically update the application to reflect stored transactions once the user is back online.
 
 ## License
 
@@ -41,15 +41,17 @@ Please visit [Contributor Covenant website](https://contributor-covenant.org) fo
 
 ## Testing
 
-The
+Before deployment, the app was tested at the localhost:3001 url; a console.log message declares whether or not service worker(s) have been successfully registered:
 
 ![screenshot of successful Service Worker registration message](./public/images/service-worker-registration.jpg)
 
-the
+The three stages, installation, activation, and idling, may be further studied in the Application tab on the Inspection panel.
+
+After adding a few transactions to the budget tracker app, the internet connection is sent offline using the "offline" option in the "No throttling" dropdown on the Network tab so that transactions may be made offline in order to test for the acceptance criteria.
 
 ![screenshot of entries offline](./public/images/demonstrating-offline-functionality.jpg)
 
-the.
+After adding a few transactions while offline, the connection is restored and the page updated to show that the data stored while offline has persisted in the budget tracker.
 
 ![screenshot of entries uploaded once back online](./public/images/back-online-update.jpg)
 
@@ -69,7 +71,7 @@ My GitHub Username is [github.com/lnd4812](https://github.com/lnd4812).
 
 ## GitHub Repository
 
-My GitHub repository link for this project is via this [Link](https://github.com/lnd4812/mod-19-pwa-budget-app)
+My GitHub repository link for this project is via this [Link](https://github.com/lnd4812/mod-19-pwa-budget-app.git)
 
 ## Application Heroku Link
 
