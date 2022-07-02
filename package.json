@@ -17,14 +17,11 @@
   "bugs": {
     "url": "https://github.com/lnd4812/mod-19-pwa-budget-app/issues"
   },
-  "homepage": "https://lnd4812.github.io/mod-19-pwa-budget-app/",
+  "homepage": "https://github.com/lnd4812/mod-19-pwa-budget-app#readme",
   "dependencies": {
     "compression": "^1.7.4",
     "express": "^4.17.1",
     "mongoose": "^5.5.15",
     "morgan": "^1.9.1"
-  },
-  "devDependencies": {
-    "gh-pages": "^4.0.0"
-  }
+  }  
 }
