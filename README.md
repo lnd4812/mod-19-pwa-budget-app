@@ -47,6 +47,8 @@ Before deployment, the app was tested at the localhost:3001 url; a console.log m
 
 The three stages, installation, activation, and idling, may be further studied in the Application tab on the Inspection panel.
 
+![screenshot of service workers display in Application tab](./public/images/service-workers-application.jpg)
+
 After adding a few transactions to the budget tracker app, the internet connection is sent offline using the "offline" option in the "No throttling" dropdown on the Network tab so that transactions may be made offline in order to test for the acceptance criteria.
 
 ![screenshot of entries offline](./public/images/demonstrating-offline-functionality.jpg)

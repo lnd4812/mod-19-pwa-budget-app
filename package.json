@@ -6,9 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
-    "lite-server": "lite-server",
-    "pre-deploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "lite-server": "lite-server"
   },
   "repository": {
     "type": "git",
@@ -17,9 +15,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lnd4812/mod-19-pwa-budget-app.git"
+    "url": "https://github.com/lnd4812/mod-19-pwa-budget-app/issues"
   },
-  "homepage": "https://lnd4812.github.io/github.com/lnd4812/mod-19-pwa-budget-app.git",
+  "homepage": "https://lnd4812.github.io/mod-19-pwa-budget-app/",
   "dependencies": {
     "compression": "^1.7.4",
     "express": "^4.17.1",
