@@ -8,7 +8,7 @@ PWA-BUDGET-TRACKER
 
 This purpose of this application is to create a budget tracker that will allow a user to input credits and debits with out without a data or internet connection.
 
-Output is based on the acceptance criteria outlined in the Module 18 Assignment Overview [Module-19-assignment](https://courses.bootcampspot.com/courses/1181/assignments/23382?module_item_id=466409).
+Output is based on the acceptance criteria outlined in the Module 19 Assignment Overview [Module-19-assignment](https://courses.bootcampspot.com/courses/1181/assignments/23382?module_item_id=466409).
 
 A sample of the expected layout is included in the Challenge outline.
 
@@ -41,7 +41,7 @@ Please visit [Contributor Covenant website](https://contributor-covenant.org) fo
 
 ## Testing
 
-Before deployment, the app was tested at the localhost:3001 url; a console.log message declares whether or not service worker(s) have been successfully registered:
+Before deployment, the app was tested at the localhost:3001 url; a console.log message declares whether or not service worker(s) have been successfully registered, as illustrated below (apologies for the poor resolution of the following images):
 
 ![screenshot of successful Service Worker registration message](./public/images/service-worker-registration.jpg)
 
@@ -79,7 +79,7 @@ My GitHub repository link for this project is via this [Link](https://github.com
 
 Link for Heroku Deployment [heroku link url](https://polite-whistler-56053.herokuapp.com/)
 
-App may be used as is on a mobile device by right-clicking next to url address on deployed page and clicking on "send to your devices".
+App may be used as is on a mobile device by right-clicking next to url address on deployed page and clicking on "send to your devices".  I do not seem to be able to create a PWA, however, but I'm not clear on whether that is part of the acceptance criteria for this assignment.
 
 ## Contact information
 
